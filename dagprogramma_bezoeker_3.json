@@ -1,0 +1,78 @@
+{
+    "bezoekersgegevens": {
+        "naam": "Lisanne Hemman",
+        "verblijfsduur": 460,
+        "leeftijd": 19,
+        "lengte": 165,
+        "gewicht": 70,
+        "voorkeuren_attractietypes": [
+            "Water"
+        ],
+        "lievelingsattracties": [],
+        "voorkeuren_eten": [],
+        "rekening_houden_met_weer": true
+    },
+    "weergegevens": {
+        "temperatuur": 21,
+        "kans_op_regen": 10
+    },
+    "voorzieningen": [
+        {
+            "id": 1,
+            "naam": "Roller Coaster Madness",
+            "type": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 45,
+            "doorlooptijd": 3,
+            "actief": 1,
+            "attractie_min_lengte": 120,
+            "attractie_max_lengte": 190,
+            "attractie_min_leeftijd": 10,
+            "attractie_max_gewicht": 100,
+            "productaanbod": null
+        },
+        {
+            "id": 2,
+            "naam": "Splash Mountain",
+            "type": "water",
+            "overdekt": 0,
+            "geschatte_wachttijd": 30,
+            "doorlooptijd": 5,
+            "actief": 1,
+            "attractie_min_lengte": 100,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": 8,
+            "attractie_max_gewicht": 90,
+            "productaanbod": null
+        },
+        {
+            "id": 3,
+            "naam": "Tornado Spin",
+            "type": "draaien",
+            "overdekt": 1,
+            "geschatte_wachttijd": 20,
+            "doorlooptijd": 2,
+            "actief": 1,
+            "attractie_min_lengte": 110,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": 10,
+            "attractie_max_gewicht": 80,
+            "productaanbod": null
+        },
+        {
+            "id": 31,
+            "naam": "Fries Joint",
+            "type": "horeca",
+            "overdekt": 1,
+            "geschatte_wachttijd": 12,
+            "doorlooptijd": 18,
+            "actief": 1,
+            "attractie_min_lengte": null,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": null,
+            "attractie_max_gewicht": null,
+            "productaanbod": "Patat"
+        }
+    ],
+    "totale_duur": 135
+}

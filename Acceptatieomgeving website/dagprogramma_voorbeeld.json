@@ -1,0 +1,30 @@
+{
+    "bezoekersgegevens": {
+       "naam": "Piet de Jong",
+        "leeftijd": 18,
+        "lengte": 185,
+        "gewicht": 129,
+        "verblijfsduur": 480,
+        "voorkeuren_attractietypes": ["Achtbaan", "Simulator", "Water"],
+        "voorkeuren_eten": ["Pasta", "Snoep", "IJs"],
+        "lievelingsattracties": ["Breezer Slides"],
+        "rekening_houden_met_weer": false
+    },
+    "weergegevens": {
+        "temperatuur": 20,
+        "kans_op_regen": 50
+    },
+    "voorzieningen": [
+        { "naam": "Breezer Slides", "type": "Achtbaan", "overdekt": false, "geschatte_wachttijd": 15, "doorlooptijd": 5, "attractie_min_lengte": 160, "attractie_max_lengte": null, "attractie_min_leeftijd": 14, "attractie_max_gewicht": 130, "is_favoriet": true},
+        { "naam": "Virtual Dive", "type": "Simulator", "overdekt": true, "geschatte_wachttijd": 25, "doorlooptijd": 15, "attractie_min_lengte": 150, "attractie_max_lengte": null, "attractie_min_leeftijd": 12, "attractie_max_gewicht": null},
+        { "naam": "Wave Rider", "type": "Water", "overdekt": false, "geschatte_wachttijd": 20, "doorlooptijd": 10, "attractie_min_lengte": 140, "attractie_max_lengte": null, "attractie_min_leeftijd": 16, "attractie_max_gewicht": 150},
+        { "naam": "Pasta Pavilion", "type": "Horeca", "geschatte_wachttijd": 10, "doorlooptijd": 30, "productaanbod": "Pasta"},
+        { "type": "eetpauze", "duur": 15},
+        { "naam": "Carousel Craze", "type": "Draaien", "overdekt": false, "geschatte_wachttijd": 10, "doorlooptijd": 5, "attractie_min_lengte": null, "attractie_max_lengte": null, "attractie_min_leeftijd": 8, "attractie_max_gewicht": null},
+        { "naam": "Family Coaster", "type": "Familie", "overdekt": true, "geschatte_wachttijd": 15, "doorlooptijd": 10, "attractie_min_lengte": 120, "attractie_max_lengte": null, "attractie_min_leeftijd": 10, "attractie_max_gewicht": 200},
+        { "naam": "Breezer Slides", "type": "Achtbaan", "overdekt": false, "geschatte_wachttijd": 15, "doorlooptijd": 5, "attractie_min_lengte": 160, "attractie_max_lengte": null, "attractie_min_leeftijd": 14, "attractie_max_gewicht": 130, "is_favoriet": true},
+        { "naam": "Souvenir Stop", "type": "Winkel", "geschatte_wachttijd": 5, "doorlooptijd": 15, "productaanbod": "Souvenirs"}
+
+    ],
+    "totale_duur": 178
+}

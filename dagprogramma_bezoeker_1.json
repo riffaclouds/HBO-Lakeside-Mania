@@ -1,0 +1,86 @@
+{
+    "bezoekersgegevens": {
+        "naam": "Piet de Jong",
+        "verblijfsduur": 600,
+        "leeftijd": 32,
+        "lengte": 190,
+        "gewicht": 105,
+        "voorkeuren_attractietypes": [
+            "Achtbaan",
+            "Simulator",
+            "Water"
+        ],
+        "lievelingsattracties": [
+            "Sky Diver"
+        ],
+        "voorkeuren_eten": [
+            "Patat",
+            "Snoep",
+            "IJs"
+        ],
+        "rekening_houden_met_weer": false
+    },
+    "weergegevens": {
+        "temperatuur": 21,
+        "kans_op_regen": 10
+    },
+    "voorzieningen": [
+        {
+            "id": 7,
+            "naam": "Sky Diver",
+            "type": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 35,
+            "doorlooptijd": 5,
+            "actief": 1,
+            "attractie_min_lengte": 140,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": 12,
+            "attractie_max_gewicht": 110,
+            "productaanbod": null
+        },
+        {
+            "id": 12,
+            "naam": "Mountain Climb",
+            "type": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 50,
+            "doorlooptijd": 7,
+            "actief": 1,
+            "attractie_min_lengte": 125,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": 12,
+            "attractie_max_gewicht": 105,
+            "productaanbod": null
+        },
+        {
+            "id": 35,
+            "naam": "Rocket Ride",
+            "type": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 45,
+            "doorlooptijd": 7,
+            "actief": 1,
+            "attractie_min_lengte": 130,
+            "attractie_max_lengte": 210,
+            "attractie_min_leeftijd": 12,
+            "attractie_max_gewicht": 105,
+            "productaanbod": null
+        },
+        {
+            "id": 31,
+            "naam": "Fries Joint",
+            "type": "horeca",
+            "overdekt": 1,
+            "geschatte_wachttijd": 12,
+            "doorlooptijd": 18,
+            "actief": 1,
+            "attractie_min_lengte": null,
+            "attractie_max_lengte": null,
+            "attractie_min_leeftijd": null,
+            "attractie_max_gewicht": null,
+            "productaanbod": "Patat"
+        }
+    ],
+    "totale_duur": 179
+}
